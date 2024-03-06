@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "asdasd",
+      "datetime": "February 22 , 2024 9:52:40 PM",
+      "body": "asdasd"
+    },
+    {
+      "id": 2,
+      "title": "asdasdasdasd",
+      "datetime": "February 22 , 2024 9:53:02 PM",
+      "body": "asdasdasd"
+    },
+    {
+      "id": 3,
+      "title": "sja;od",
+      "datetime": "February 23 , 2024 11:56:14 PM",
+      "body": "as;ldas;dl\n"
+    }
+  ]
+}
